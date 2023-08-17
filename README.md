@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Live site URL](https://younes-dotcom.github.io/Front-End-Mentor--QR-Challenge/)
+- [Live Site URL](https://younes-dotcom.github.io/Front-End-Mentor--QR-Challenge/)
 
 ### Built with
 
